@@ -15,4 +15,4 @@ class TweetsController < ApplicationController
             render :new
         end
     end
-
+end
